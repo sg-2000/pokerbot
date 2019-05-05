@@ -1,0 +1,13 @@
+Royal Flush
+ids -> 1,10,11,12,13
+
+Straight Flush
+if suit == and seq?
+
+Four of a Kind
+Full House
+Flush
+Straight
+3 of a Kind
+2 Pair
+Pair
